@@ -57,6 +57,7 @@ A Output Peg
 And Thats It!!
 
 To Get CBT, Either Download The .cs File Or Check The Source Code
+To Use CBT, Put The .cs File Inside Your c# Project And Make sure You Have The UnityEngine As A Refernce!!
 
 NOTE: Output Pegs Might Look Weird, thats A Problem with PiTUNG, not my tools.
 
