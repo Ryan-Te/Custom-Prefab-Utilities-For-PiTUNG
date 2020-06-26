@@ -1,5 +1,5 @@
-# Custom-Builder-Mode-Utilities-For-PiTUNG
-Custom Builder Mode Utilities For PiTUNG
+# Custom-Builder-Mode-Utilities-For-PiTheUltimateNerdGame
+Custom Builder Mode Utilities For PiTheUltimateNerdGame
 This Is A Set Of Functions That Make Using The Custom Builder In PiTUNG Alot Eaiser!
 Functions:
 
@@ -58,14 +58,14 @@ A Output Peg
   
 And Thats It!!
 
-To Get CBMUFP, Either Download The .cs File Or Check The Source Code
+To Get CBMUFPTUNG, Either Download The .cs File Or Check The Source Code
 
-To Use CBMUFP, Put The .cs File Inside Your c# Project And Make sure You Have The UnityEngine As A Refernce!!
+To Use CBMUFPTUNG, Put The .cs File Inside Your c# Project And Make sure You Have The UnityEngine As A Refernce!!
 
 NOTE: Output Pegs Might Look Weird, thats A Problem with PiTUNG, not my tools.
 
-I Will Be Posting A Mod That Uses this Under Ryan-Te/CMBUFP Demo :)
+I Will Be Posting A Mod That Uses this Under Ryan-Te/CMBUFPTUNG Demo :)
 
-https://github.com/Ryan-Te/CBMUFP-Demo
+https://github.com/Ryan-Te/CBMUFPTUNG-Demo
 
   
