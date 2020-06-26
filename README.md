@@ -10,7 +10,7 @@ createCube(X,[Y]Z)
 
   This Will Create A Cube Of Size X Y Z, Default For Y is 1
   
-  This Function Is A Modified Version Of Falsepatterns Function That Lets You Create Any Sized Cube Instead Of jUst 1x1x1 Cubes.
+  This Function Is A Modified Version Of Falsepatterns Function That Lets You Create Any Sized Cube Instead Of Just 1x1x1 Cubes.
   
   
   
