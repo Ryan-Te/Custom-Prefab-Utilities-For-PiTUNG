@@ -5,11 +5,12 @@ Functions:
 
 NOTE: Things Inside [] Are Optional
 
-This Function Is A Modified Version Of Falsepatterns Function.
-  
+
 createCube(X,[Y]Z)
 
   This Will Create A Cube Of Size X Y Z, Default For Y is 1
+  This Function Is A Modified Version Of Falsepatterns Function That Lets You Create Any Sized Cube Instead Of jUst 1x1x1 Cubes.
+  
   
   
 getPegPos(X,[Y],Z,Side,[OffestX],[Offset Y])
