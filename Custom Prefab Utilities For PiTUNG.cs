@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -211,7 +211,7 @@ class CPUFP
 		}
 		return Output;
 	}
-	internal static Quaternion getPegQuat(int sizeX, int sizeZ, string Side)
+	internal static Quaternion getPegQuat(string Side)
 		{
 			if (Side == "F")
 			{
@@ -228,37 +228,6 @@ class CPUFP
 			else if (Side == "L")
 			{
 				return Quaternion.Euler(0, 0, -90);
-			}
-			else if (Side == "T")
-			{
-				return Quaternion.Euler(0, 0, 0);
-			}
-			else
-			{
-				return Quaternion.Euler(0, 0, 0);
-			}
-		}
-	internal static Quaternion getPegQuat(int sizeX, int sizeY, int sizeZ, string Side)
-		{
-			if (Side == "F")
-			{
-				return Quaternion.Euler(-90, 0, 0);
-			}
-			else if (Side == "B")
-			{
-				return Quaternion.Euler(90, 0, 0);
-			}
-			else if (Side == "R")
-			{
-				return Quaternion.Euler(0, 0, 90);
-			}
-			else if (Side == "L")
-			{
-				return Quaternion.Euler(0, 0, -90);
-			}
-			else if (Side == "T")
-			{
-				return Quaternion.Euler(0, 0, 0);
 			}
 			else
 			{
@@ -266,4 +235,3 @@ class CPUFP
 			}
 		}
 }
-
