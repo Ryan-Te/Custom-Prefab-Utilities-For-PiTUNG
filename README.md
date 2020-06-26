@@ -66,6 +66,6 @@ NOTE: Output Pegs Might Look Weird, thats A Problem with PiTUNG, not my tools.
 
 I Will Be Posting A Mod That Uses this Under Ryan-Te/CMBUFP Demo :)
 
-https://github.com/Ryan-Te/CMBUMP-Demo
+https://github.com/Ryan-Te/CBMUFP-Demo
 
   
