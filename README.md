@@ -44,16 +44,16 @@ Here Is How To Make A Component Made Using My Tools
 
 The Inital line
 
-  var Test = PrefabBuilder.Custom(() => CBT.createCube(X Size Of Component, [YSize Of Component], Z Size Of Component)
+  var Test = PrefabBuilder.Custom(() => CPUFP.createCube(X Size Of Component, [YSize Of Component], Z Size Of Component)
   
   
 A Input Peg
 
-  .WithInput(CBT.getPegPos(X Size Of Component, [YSize Of Component], Z Size Of Component, Side Of Peg, [X Offset Of Peg], [Y Offset Of Peg] ),  CBT.getPegQuat(X Size Of Component, [YSize Of Component], Z Size Of Component Side Of Peg),Peg Descripion)
+  .WithInput(CPUFP.getPegPos(X Size Of Component, [YSize Of Component], Z Size Of Component, Side Of Peg, [X Offset Of Peg], [Y Offset Of Peg] ),  CPUFP.getPegQuat(X Size Of Component, [YSize Of Component], Z Size Of Component Side Of Peg),Peg Descripion)
 
 A Output Peg
 
-  .WithOutput(CBT.getPegPos(X Size Of Component, [YSize Of Component], Z Size Of Component, Side Of Peg, [X Offset Of Peg], [Y Offset Of Peg] ),  CBT.getPegQuat(X Size Of Component, [YSize Of Component], Z Size Of Component Side Of Peg),Peg Descripion)
+  .WithOutput(CPUFP.getPegPos(X Size Of Component, [YSize Of Component], Z Size Of Component, Side Of Peg, [X Offset Of Peg], [Y Offset Of Peg] ),  CPUFP.getPegQuat(X Size Of Component, [YSize Of Component], Z Size Of Component Side Of Peg),Peg Descripion)
   
   
 And Thats It!!
