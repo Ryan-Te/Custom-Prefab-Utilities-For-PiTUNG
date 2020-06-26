@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using UnityEngine;
 
-class CBT
+class CPUFP
 {
 	//The creatCube Function Is A Modified Version of a Function That Falsepattern Made
 	//The Other 2 Functions Were Made By Me
