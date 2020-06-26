@@ -21,10 +21,9 @@ getPegPos(X,[Y],Z,Side,[OffestX],[Offset Y])
   Default For Y Is 1 and Default For Offset X and Offset Y Are 0
   
   
-getPegQuat(X,[Y],Z,Side)
+getPegQuat(Side)
 
-  This Will Turn The Given Cube Size(X,Y,Z) 
-  And Output The Rotation Of A Peg Peg On Side Side
+  This Will Output The Rotation Of A Peg Peg On Side Side
   
   
 SIDE TABLE:
