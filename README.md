@@ -5,7 +5,7 @@ Functions:
 
 NOTE: Things Inside [] Are Optional
 
-<This Function Is A Modified Version Of Falsepatterns Function.>
+This Function Is A Modified Version Of Falsepatterns Function.
   
 createCube(X,[Y]Z)
 
