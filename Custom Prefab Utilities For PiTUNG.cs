@@ -135,7 +135,7 @@ class CPUFP
 			}
 			return Output;
 		}
-	internal static Vector3 getPegPos(int sizeX, int sizeZ, string Side, int offsetX, int offsetY)
+	internal static Vector3 getPegPos(int sizeX, int sizeZ, string Side, float offsetX, float offsetY)
 	{
 		Vector3 Output;
 		if (Side == "F")
@@ -173,7 +173,7 @@ class CPUFP
 		}
 		return Output;
 	}
-	internal static Vector3 getPegPos(int sizeX, int sizeY, int sizeZ, string Side, int offsetX, int offsetY)
+	internal static Vector3 getPegPos(int sizeX, int sizeY, int sizeZ, string Side, float offsetX, float offsetY)
 	{
 		Vector3 Output;
 		if (Side == "F")
