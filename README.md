@@ -26,7 +26,7 @@ getPegPos(X, [Y], Z, Side, [OffestX], [Offset Y])
   
 getPegQuat(Side)
 
-  This Will Output The Rotation Of A Peg Peg On Side Side
+  This Will Output The Rotation Of A Peg On Side Side
   
   -
   
