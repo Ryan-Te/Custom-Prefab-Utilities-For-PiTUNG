@@ -54,11 +54,11 @@ The Inital line
   
 A Input Peg
 
-  .WithInput(CPUFP.getPegPos(X Size Of Component, [YSize Of Component], Z Size Of Component, Side Of Peg, [X Offset Of Peg], [Y Offset Of Peg] ),  CPUFP.getPegQuat(X Size Of Component, [YSize Of Component], Z Size Of Component Side Of Peg),Peg Descripion)
+  .WithInput(CPUFP.getPegPos(X Size Of Component, [YSize Of Component], Z Size Of Component, Side Of Peg, [X Offset Of Peg], [Y Offset Of Peg] ),  CPUFP.getPegQuat(Side Of Peg),Peg Descripion)
 
 A Output Peg
 
-  .WithOutput(CPUFP.getPegPos(X Size Of Component, [YSize Of Component], Z Size Of Component, Side Of Peg, [X Offset Of Peg], [Y Offset Of Peg] ),  CPUFP.getPegQuat(X Size Of Component, [YSize Of Component], Z Size Of Component Side Of Peg),Peg Descripion)
+  .WithOutput(CPUFP.getPegPos(X Size Of Component, [YSize Of Component], Z Size Of Component, Side Of Peg, [X Offset Of Peg], [Y Offset Of Peg] ),  CPUFP.getPegQuat(Side Of Peg),Peg Descripion)
   
   -
   
