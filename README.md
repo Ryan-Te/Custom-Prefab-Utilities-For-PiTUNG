@@ -12,7 +12,7 @@ createCube(X, [Y], Z, [C])
   
   The Color Of This Cube Is C, Default For C is new Color(1, 1, 1)
   
-  This Function Is A Modified Version Of Falsepatterns Function That Lets You Create Any Sized Cube Instead Of Just 1x1x1 Cubes.
+  This Function Is A Modified Version Of Falsepatterns Function That Lets You Create Cubes Of Any Size And Colour Instead Of Just 1x1x1 White Cubes.
   
   -
   
