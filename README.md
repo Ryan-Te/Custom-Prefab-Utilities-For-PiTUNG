@@ -8,7 +8,8 @@ NOTE: Things Inside [] Are Optional
 
 createCube(X, [Y], Z, [C])
 
-  This Will Create A Cube Of Size X Y Z, Default For Y is 1
+  This Will Create A Cube Of Size X Y Z, Default For Y is 1.
+  
   The Color Of This Cube Is C, Default For C is new Color(1, 1, 1)
   
   This Function Is A Modified Version Of Falsepatterns Function That Lets You Create Any Sized Cube Instead Of Just 1x1x1 Cubes.
