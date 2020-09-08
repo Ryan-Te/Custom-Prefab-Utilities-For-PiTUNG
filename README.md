@@ -14,7 +14,7 @@ createCube(X, [Y], Z, [C])
   
   This Function Is A Modified Version Of Falsepatterns Function That Lets You Create Any Sized Cube Instead Of Just 1x1x1 Cubes.
   
-  
+  -
   
 getPegPos(X, [Y], Z, Side, [OffestX], [Offset Y])
 
@@ -22,11 +22,13 @@ getPegPos(X, [Y], Z, Side, [OffestX], [Offset Y])
   And Output The Position Of A Peg On Side Side And Offset The Peg By Offset X TUNG Grid Spaces Left/Right And Offset Y TUNG Grid Spaces UP/Down
   Default For Y Is 1 and Default For Offset X and Offset Y Are 0
   
+  -
   
 getPegQuat(Side)
 
   This Will Output The Rotation Of A Peg Peg On Side Side
   
+  -
   
 SIDE TABLE:
   F = Front
@@ -39,14 +41,16 @@ SIDE TABLE:
   
   T = Top
   
+  -
 
 HOW TO USE:
 Here Is How To Make A Component Made Using My Tools
 
 The Inital line
 
-  var Test = PrefabBuilder.Custom(() => CPUFP.createCube(X Size Of Component, [YSize Of Component], Z Size Of Component)
+  var Test = PrefabBuilder.Custom(() => CPUFP.createCube(X Size Of Component, [YSize Of Component], Z Size Of Component, [Color Of Component])
   
+  -
   
 A Input Peg
 
@@ -56,6 +60,7 @@ A Output Peg
 
   .WithOutput(CPUFP.getPegPos(X Size Of Component, [YSize Of Component], Z Size Of Component, Side Of Peg, [X Offset Of Peg], [Y Offset Of Peg] ),  CPUFP.getPegQuat(X Size Of Component, [YSize Of Component], Z Size Of Component Side Of Peg),Peg Descripion)
   
+  -
   
 And Thats It!!
 
